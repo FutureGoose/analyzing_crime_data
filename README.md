@@ -13,7 +13,7 @@ This Machine Learning Engineering lab traverses from meticulous data cleaning ðŸ
 This project is an academic exercise. Content is for educational use and should not be considered as professional advice.
 
 ## ðŸ“‹ Table of Contents
-- [EDA Laboration](#eda-laboration)
+- EDA Laboration
   - Preface: Approach to Structuring Responses
   - Dataset Introduction
   - Warming up
@@ -27,7 +27,7 @@ This project is an academic exercise. Content is for educational use and should 
   - Just send me like location
   - The 5 factor
   - Spotlight on you, Maestro!
-- [Machine Learning](#machine-learning)
+- Machine Learning]
   - Project Overview: Predictive Modeling for Non-Arrest Incidents
   - Metric Focus: Precision in Predicting Non-Arrests
     - Objective
