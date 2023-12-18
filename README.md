@@ -27,7 +27,7 @@ This project is an academic exercise. Content is for educational use and should 
   - Just send me like location
   - The 5 factor
   - Spotlight on you, Maestro!
-- Machine Learning]
+- Machine Learning
   - Project Overview: Predictive Modeling for Non-Arrest Incidents
   - Metric Focus: Precision in Predicting Non-Arrests
     - Objective
