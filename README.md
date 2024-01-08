@@ -1,6 +1,6 @@
 # 🕵️ Analyzing Crime Data
 
-![High Tech Detective Work](https://i.ibb.co/CPMP78d/DALL-E-2023-12-18-12-44-43-A-detailed-and-sophisticated-illustration-of-a-digital-crime-data-analysi.png)
+**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/analyzing_crime_data/blob/main/analyzing_crime_data_ver1.ipynb).**
 
 ## 📜 About
 This Machine Learning Engineering lab traverses from meticulous data cleaning 🧹 to deep exploratory analysis 🔍, yielding nuanced insights into Chicago's crime data. Culminating with a polished XGBoost model 💡, enhanced by step-wise Hyperopt tuning and Recursive Feature Elimination, the project boasts an noteable 89% precision rate 🎯.
