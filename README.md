@@ -1,6 +1,6 @@
 # 🕵️ Analyzing Crime Data
 
-**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/analyzing_crime_data/blob/main/analyzing_crime_data_ver1.ipynb).**
+**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/analyzing_crime_data/blob/main/analyzing_crime_data.ipynb).**
 
 ## 📜 About
 This Machine Learning Engineering lab traverses from meticulous data cleaning 🧹 to deep exploratory analysis 🔍, yielding nuanced insights into Chicago's crime data. Culminating with a polished XGBoost model 💡, enhanced by step-wise Hyperopt tuning and Recursive Feature Elimination, the project boasts an noteable 89% precision rate 🎯.
